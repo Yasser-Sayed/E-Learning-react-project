@@ -1,0 +1,58 @@
+.logHedear{
+    color: #000066;
+}
+.progs{
+    
+    width:25%;
+    margin:20px 0 40px 0;
+}
+.logContainer{
+ 
+   border-radius: 20px;  
+   padding:40px; 
+   box-shadow:5px 5px 5px 5px #cdcdd1 ;
+   margin-top:10px;
+}
+.btnlogin{
+    background-color: #020238;
+    color: white;
+    padding: 10px;
+    width: 30%;
+    margin:10px;
+    font-size:15px;
+    border: none;
+    border-radius: 5px;
+}
+.btnlogin:hover{
+    background-color:  #303075;
+}
+.btnS{
+    text-align: center;
+}
+.diff{
+    color: #03033f;
+    font-weight: bold;
+}
+.must::before{
+content:"*";
+color: #ee2720;
+font-size:20px;
+}
+.Twobtn{
+    color: #000033;
+    border:none;
+    border-radius:5px;
+    background-color:#ccccff ;
+    padding: 5px;
+    margin: 10px;
+    width:10%;
+}	
+.Twobtn:hover{
+    background-color:#6666ff;
+}
+@media screen and(max-width:700px) {
+    .logContainer{
+         width:100%;
+    }
+    
+}

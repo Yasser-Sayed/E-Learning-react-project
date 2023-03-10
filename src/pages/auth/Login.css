@@ -1,0 +1,22 @@
+.contain{
+    background-image:url();
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+    border-radius: 20px;  
+    padding:10px 50px; 
+    box-shadow:3px 3px 5px 5px #c1c1c7 ;
+   
+    font-weight: bold;
+    height:400px;
+    
+}
+.contentlog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:30px;
+   
+}
+
+ 
